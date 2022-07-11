@@ -6,4 +6,4 @@ Click download link
 
 Run file providing argument of file you want to execute (must have .hw extension)
 
-ex. ./hello code.hw
+ex. `./hello code.hw`
