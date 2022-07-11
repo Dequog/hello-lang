@@ -1,6 +1,6 @@
 # Install
 
-Click download file
+Click download link
 
 # Execute code
 
