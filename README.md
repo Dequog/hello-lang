@@ -1,3 +1,9 @@
+# About
+
+In order for this to execute you must have one line that contains on the phrase "Hello World!" An
+
+Anything else on any other lines are considered comments
+
 # Install
 
 Click download link
