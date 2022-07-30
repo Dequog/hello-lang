@@ -33,7 +33,7 @@ fn main() {
                 // If the file contains the string "Hello World!" on a single line, then print "Hello World!"
                 println!("Hello World!");
             }else {
-                // If the file does not contain the string "Hello World!", then print out and error
+                // If the file does not contain the string "Hello World!", then print out an error
                 println!("Error: Code must contain phrase: \"Hello World!\" on it's own line");
             }
         }
